@@ -1,8 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.gif" width="100%" alt="Welcome Banner"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Arpit Dubey</h1>
 <h3 align="center">Aspiring Software Developer | AI/ML Enthusiast | Lifelong Learner</h3>
 
@@ -12,7 +7,7 @@
 
 🎓 I'm passionate about building intelligent systems and writing clean, efficient code.  
 💡 Constantly learning and exploring new technologies in **AI, Web Development, and Data Science**.  
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/) | [Portfolio](#) *(update with your links)*  
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/arpit-dubey-458789215/)
 
 ---
 
@@ -42,8 +37,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitdubey&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitdubey&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitdubey01&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitdubey01&theme=tokyonight" width="48%"/>
 </p>
 
 ---
