@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitdubey&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitdubey01&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
